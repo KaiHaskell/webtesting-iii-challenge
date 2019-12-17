@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`shows the controls and display 1`] = `
+<div
+  class="led green-led"
+>
+  Open
+</div>
+`;
